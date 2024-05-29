@@ -1,2 +1,2 @@
 
-Repository to upload ITM master's notebooks
+Repository to upload ITM master's notebooks of 2024 edition
